@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+> **Penjelasan**: Ini Adalah Gabungan Tugas sesi#2 Dan Sesi#3 
 
 ## Step 1: Start Metro
 
@@ -95,3 +95,8 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+# Nama2 Tugas
+karena Tugas Sesi2 itu menggunakan MIT jadi tidak ada source code nya dan hanya file APK nya saja yang bernama tugas1(1).apk
+dan sisa nya itu Source code Tugas Sesi#3 hasil dari tugas sesi#3 bernama app-release.zip.
+
+# ScreenShoot Applikasi
