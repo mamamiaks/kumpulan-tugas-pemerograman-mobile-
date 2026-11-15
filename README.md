@@ -100,3 +100,7 @@ karena Tugas Sesi2 itu menggunakan MIT jadi tidak ada source code nya dan hanya 
 dan sisa nya itu Source code Tugas Sesi#3 hasil dari tugas sesi#3 bernama app-release.zip.
 
 # ScreenShoot Applikasi
+<img width="1080" height="2408" alt="911287482_1913737139589098_3609953615079260600_n" src="https://github.com/user-attachments/assets/bc01e0dc-d9f8-4b43-af6a-a13700fd4157" />
+ini screenshot untuk tugas sesi#2
+<img width="1080" height="2408" alt="907870227_2309743839866584_8128111291784830332_n" src="https://github.com/user-attachments/assets/82985f0c-89d7-4c24-b1c9-7cd074d1a4b5" />
+ini screenshoot untuk tugas sesi#3 (error tersebut tidak disebabkan oleh applikasi melainkan terjadi karena error pada web yang ditautkan pada waktu pengambilan gambar)
